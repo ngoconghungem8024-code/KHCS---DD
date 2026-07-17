@@ -1,0 +1,6 @@
+{
+  "name": "KHCS",
+  "description": "Kế hoạch chăm sóc điều dưỡng chuyên nghiệp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
